@@ -12,7 +12,7 @@ function whileLoop(n) {
 }
 function doWhileLoop(array) {
   function maybeTrue() {
-  return array
+  return array[]--
 }
 do {
   console.log('')
