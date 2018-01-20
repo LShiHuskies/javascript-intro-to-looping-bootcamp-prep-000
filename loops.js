@@ -15,7 +15,7 @@ function doWhileLoop(array) {
   return array[]--
 }
 do {
-  console.log('')
+  console.log('doo-bee-doo-bee-doo')
 } while (maybeTrue() && array.length > 0)
 return array
 }
